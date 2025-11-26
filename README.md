@@ -9,4 +9,4 @@ This repository contains the code and output for generating the MFA security-usa
 ## Instructions
 
 To generate the chart yourself, run:
-
+```python3 mfa_plot.py```
