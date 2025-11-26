@@ -1,4 +1,12 @@
-# mfa-paper-artifact
-This repository contains the Python script (`mfa_plot.py`) and output PNG for the MFA security-usability trade-off chart. 
-To generate the chart, run: 
-python3 mfa_plot.py
+# MFA Security-Usability Matrix Artifact
+
+This repository contains the code and output for generating the MFA security-usability trade-off chart.
+
+## Output Example
+
+![Security-Usability Trade-off Matrix](security_usability_tradeoff.png)
+
+## Instructions
+
+To generate the chart yourself, run:
+
